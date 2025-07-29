@@ -1,4 +1,4 @@
-# boltTODO
+# AI TODO
 ai integrated todo website
 
 website link:
